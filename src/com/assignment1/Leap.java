@@ -1,4 +1,4 @@
-package com.assignments;
+package com.assignment1;
 import java.util.Scanner;
 
 public class Leap {
